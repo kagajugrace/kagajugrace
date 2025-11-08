@@ -1,62 +1,189 @@
-# 👋 Hi there, I'm Marie Grace Kagaju  
+<div align="center">
 
-💼 **Technical Support Engineer at TEKNOWLEDGE**  
-🌍 Based in Rwanda | Fluent in English | Beginner in French | Native in Kinyarwanda  
+# 👋 Hi there, I'm Marie Grace Kagaju
 
-I’m a **dedicated IT professional** with experience in **technical support, software development, and data analytics**.  
-My passion lies in using technology to solve real-world problems — from maintaining systems and troubleshooting issues to developing web applications and analyzing data for smarter business decisions.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Technical+Support+Engineer;Full+Stack+Developer;Data+Analytics+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-grace-kagaju/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kagajugrace)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariegracekagaju@gmail.com)
 
-### 🧰 Technologies & Tools
-- **Programming:** Python, JavaScript, TypeScript, HTML, CSS  
-- **Frameworks:** React, Flask  
-- **Databases:** PostgreSQL, MySQL  
-- **Data & Analytics:** Excel, Power BI, Pandas, NumPy  
-- **Cloud & Networking:** Azure AD, AWS basics, CCNA Certified  
-- **Others:** ERP systems, Git/GitHub, REST APIs  
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 About Me
 
-#### 🏠 Café Fausse Web App  
-A full-stack café management web application built with React (frontend) and Flask (backend), supporting real-time reservations, contact forms, and dynamic menu management.  
-**Tech:** React, TypeScript, Flask, PostgreSQL, Vercel  
-🔗 [View Live Demo](https://cafe-fausse-web-app-3mc2.vercel.app/)
+**📍 Location:** Rwanda  
+**💼 Current Role:** Technical Support Engineer @ TEKNOWLEDGE  
+**🗣️ Languages:** English 🇬🇧 | French 🇫🇷 (Beginner) | Kinyarwanda 🇷🇼
 
-#### 📊 Data Analytics Portfolio  
-A collection of projects demonstrating data cleaning, visualization, and insight generation for business use cases.  
-**Tech:** Python, Power BI, Pandas  
+I'm a dedicated IT professional with a passion for:
+- 💡 Solving real-world problems with technology
+- 🌐 Building scalable web applications
+- 📊 Turning data into actionable insights
 
-#### 🧩 IT Support Automation Scripts  
-Scripts and utilities designed to simplify troubleshooting, automate system checks, and streamline daily IT operations.  
-**Tech:** Python, Bash  
+**🎯 Current Focus:** Cloud computing & AI-powered analytics
+
+**✨ My Philosophy:** Technology isn't just about systems — it's about empowering people through innovation.
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
-### 🧠 Certifications
-- Software Development Certificate  
-- IT Professional Certification  
-- CCNA  
-- Business Analytics  
-- Data Analytics  
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 Café Fausse Web App
+A full-stack café management system with real-time reservations, dynamic menu management, and contact forms.
+
+**Tech Stack:**
+- Frontend: React, TypeScript
+- Backend: Flask, PostgreSQL
+- Deployment: Vercel
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://cafe-fausse-web-app-3mc2.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 📊 Data Analytics Portfolio
+Collection of data analysis projects featuring data cleaning, visualization, and business intelligence insights.
+
+**Tech Stack:**
+- Python (Pandas, NumPy)
+- Power BI
+- Excel
+
+[![View Projects](https://img.shields.io/badge/View-Projects-blue?style=for-the-badge&logo=github)](https://github.com/kagajugrace)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧩 IT Support Automation
+Scripts and utilities to automate troubleshooting, system checks, and daily IT operations.
+
+**Tech Stack:**
+- Python
+- Bash
+- REST APIs
+
+[![Explore](https://img.shields.io/badge/Explore-Code-orange?style=for-the-badge&logo=github)](https://github.com/kagajugrace)
+
+</td>
+<td width="50%">
+
+### 🚧 Coming Soon
+Building a new Flask-React full-stack application with AI-powered features.
+
+**Stay tuned!** ⭐
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌱 What I’m currently working on
-- Enhancing my skills in **cloud computing** and **system automation**  
-- Exploring **AI-powered analytics tools**  
-- Building a new **Flask-React full-stack application**
+## 📜 Certifications
+
+<div align="center">
+
+| 🎓 Certification | 🏆 Area |
+|:----------------|:--------|
+| Software Development Certificate | Development |
+| IT Professional Certification | IT Support |
+| CCNA | Networking |
+| Business Analytics | Analytics |
+| Data Analytics | Data Science |
+
+</div>
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn:** [Marie Grace Kagaju](https://www.linkedin.com/in/marie-grace-kagaju/)  
-- **GitHub:** [@kagajugrace](https://github.com/kagajugrace)  
-- **Email:** kagajugrace@gmail.com 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kagajugrace&show_icons=true&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kagajugrace&theme=radical&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagajugrace&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-⭐️ *“Technology isn’t just about systems — it’s about empowering people through innovation.”*
+## 🌱 Current Focus
 
+```mermaid
+mindmap
+  root((Marie Grace))
+    Cloud Computing
+      Azure AD
+      AWS
+      System Automation
+    AI & Analytics
+      AI-powered tools
+      Machine Learning
+      Data Visualization
+    Development
+      Flask-React Apps
+      REST APIs
+      Full Stack Projects
+```
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations, collaboration opportunities, and new projects!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-grace-kagaju/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariegracekagaju@gmail.com)
+
+### 💭 Quote I Live By
+
+> *"Technology isn't just about systems — it's about empowering people through innovation."*
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=kagajugrace&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+**⭐️ From [kagajugrace](https://github.com/kagajugrace) with ❤️**
+
+</div>
